@@ -36,6 +36,8 @@ I am currently **building and developing strong technical skills** in Data Analy
 ### 1. MEAL & Humanitarian Focus (KPI Tracking)
 >  https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI
 
+> https://github.com/fatemadaher1993-source/World-Food-Production-Analysis/tree/main
+
 ### 2. Business Intelligence & Diversified Analytics (Power BI / Excel / Python)
 >https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard
 
