@@ -92,7 +92,7 @@ I am open to opportunities in **MEAL, Monitoring & Evaluation, Program Monitorin
 
 📧 **Email:** fatemadaher1993@gmail.com
 
-🌐 **LinkedIn:** (https://www.linkedin.com/in/fatema-aldaher)
+🌐 **LinkedIn:** /in/fatema-aldaher
 
 ---
 
